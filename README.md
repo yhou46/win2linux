@@ -3,3 +3,4 @@
 ## TODO:
 1. make it run in windows/linux/mac without typing python3
 2. add some tests
+3. 
